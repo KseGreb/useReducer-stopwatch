@@ -1,3 +1,8 @@
+
+
+https://github.com/KseGreb/useReducer-stopwatch/assets/110953599/720a973d-f649-45fe-9331-8185f40caed9
+
+
 Stopwatch, created in React. 
 Hooks that were used for this project: useReducer, use Effect and useRef.
 
